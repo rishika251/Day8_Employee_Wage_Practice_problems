@@ -8,7 +8,7 @@ public class EmployeeWageComputation {
 	    public static int totalWorkingDay;
 	    public static double totalWage;
 	    public static void main(String[] args) {
-	        //checking attendence
+	        //checking attendence full time or part time
 	        Attendance uc1 = new Attendance();
 	        uc1.checkAttendance();
 
